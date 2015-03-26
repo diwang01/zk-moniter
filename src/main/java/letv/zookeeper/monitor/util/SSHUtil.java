@@ -20,7 +20,7 @@ import ch.ethz.ssh2.StreamGobbler;
 
 /**
  * 链接linux工具类
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class SSHUtil {

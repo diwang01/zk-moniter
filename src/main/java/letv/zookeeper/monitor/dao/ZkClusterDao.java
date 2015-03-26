@@ -4,7 +4,7 @@ import letv.zookeeper.monitor.model.ZkClusterInfo;
 
 /**
  * zookeeper集群信息dao
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public interface ZkClusterDao {

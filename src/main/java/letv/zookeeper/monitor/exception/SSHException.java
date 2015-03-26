@@ -2,7 +2,7 @@ package letv.zookeeper.monitor.exception;
 
 /**
  * SShException
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class SSHException extends Exception {

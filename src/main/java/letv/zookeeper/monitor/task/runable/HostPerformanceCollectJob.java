@@ -14,7 +14,7 @@ import letv.zookeeper.monitor.util.SSHUtil;
 
 /**
  * 监控zookeeper服务器机器性能
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class HostPerformanceCollectJob implements Runnable {

@@ -6,7 +6,7 @@ import org.apache.commons.lang.StringUtils;
 
 /**
  * 发送短信接口
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class MessageUtil {

@@ -8,7 +8,7 @@ import org.springframework.web.servlet.view.freemarker.FreeMarkerView;
 
 /**
  * 重写视图解析器，获取项目根路径
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class MyFreemarkerView extends FreeMarkerView {

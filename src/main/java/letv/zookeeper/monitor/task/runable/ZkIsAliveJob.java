@@ -11,7 +11,7 @@ import letv.zookeeper.monitor.util.SSHUtil;
 
 /**
  * 检查zookeeper是否存活
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class ZkIsAliveJob implements Runnable {

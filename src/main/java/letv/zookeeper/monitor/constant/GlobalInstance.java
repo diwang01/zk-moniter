@@ -15,7 +15,7 @@ import org.apache.curator.framework.CuratorFramework;
 
 /**
  * 全局静态实例对象
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class GlobalInstance {

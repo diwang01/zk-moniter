@@ -5,7 +5,7 @@ import java.util.Map;
 
 /**
  * zookeeper服务器机器性能信息
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class HostPerformanceInfo implements Serializable {

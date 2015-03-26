@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 /**
  * 集群机器监控
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 @Controller

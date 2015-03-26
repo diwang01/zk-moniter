@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  * 前台展示树形节点结构
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class NodeInfo implements Serializable {

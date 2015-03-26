@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * zookeeper集群信息
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class ZkClusterInfo implements Serializable {

@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
 
 /**
  * zookeeper服务器状态信息收集job
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 @Service

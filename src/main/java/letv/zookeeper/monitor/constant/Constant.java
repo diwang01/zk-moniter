@@ -5,7 +5,7 @@ import java.util.List;
 
 /**
  * 常量
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class Constant {

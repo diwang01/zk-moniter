@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * 单个zookeeper服务器的状态
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class ZkStatusInfo implements Serializable {

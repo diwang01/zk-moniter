@@ -14,7 +14,7 @@ import letv.zookeeper.monitor.util.SSHUtil;
 
 /**
  * 监控zookeeper服务器状态信息job
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class ZkStatusCollectJob implements Runnable {

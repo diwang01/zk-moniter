@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * 线程工具类
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class ThreadUtil {

@@ -6,7 +6,7 @@ import letv.zookeeper.monitor.constant.Constant;
 
 /**
  * 单个zookeeper信息
- * @author shaoxiangfei
+ * @author wangdi
  *
  */
 public class ZkModelInfo implements Serializable {
